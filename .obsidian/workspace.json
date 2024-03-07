@@ -28,9 +28,21 @@
                 "currentVersion": "1.5.8"
               }
             }
+          },
+          {
+            "id": "482b3ed4c83f9ddf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 projets/Projet 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1e4e8ed4556029a5",
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Aréas/Python et Django.md",
+                "file": "02 projets/Projet 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Aréas/Python et Django.md",
+                "file": "02 projets/Projet 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Aréas/Python et Django.md"
+                "file": "02 projets/Projet 1.md"
               }
             }
           },
@@ -170,8 +181,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "903bd0891a2fe6c1",
+  "active": "482b3ed4c83f9ddf",
   "lastOpenFiles": [
+    "README.md",
+    "02 projets/Projet 1.md",
     "Sans titre.canvas",
     "Tkinter.md",
     "01 Aréas/Python et Django.md",
