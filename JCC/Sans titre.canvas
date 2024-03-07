@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "a500461dbcd0f94d",
+      "type": "text",
+      "text": "",
+      "x": -160,
+      "y": 240,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "4c7dbf29e229fe97",
+      "type": "text",
+      "text": "",
+      "x": 290,
+      "y": 240,
+      "width": 250,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "268cfa302a2bb04b",
+      "fromNode": "a500461dbcd0f94d",
+      "fromSide": "right",
+      "toNode": "4c7dbf29e229fe97",
+      "toSide": "left"
+    }
+  ]
+}
